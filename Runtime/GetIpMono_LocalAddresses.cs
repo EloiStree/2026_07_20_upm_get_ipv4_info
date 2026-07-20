@@ -12,6 +12,7 @@ namespace Eloi.GetIpInfo
         [Header("Settings")]
         public bool m_fetchAtReady = true;
         public bool m_removeLocalhostIpv4 = true;
+        [TextArea(0,2)]
         public string m_joinSplitter = ", ";
         public bool m_filterOutIpv6 = true;
 
