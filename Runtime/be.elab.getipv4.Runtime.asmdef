@@ -1,0 +1,14 @@
+{
+    "name": "be.elab.getipv4.Runtime",
+    "rootNamespace": "Eloi.GetIpInfo",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

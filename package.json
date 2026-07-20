@@ -1,0 +1,33 @@
+{
+  "name": "be.elab.getipv4",
+  "displayName": "\ud83e\uddf0: Get IPV4 info",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Get public ipv4, loacl ipv4 and mdns",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "url": "https://github.com/EloiStree",
+    "email": "eloistree@gmail.com"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2026_07_20_upm_get_ipv4_info.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script",
+  "documentationUrl": "https://github.com/EloiStree/2026_07_20_upm_get_ipv4_info/blob/main/README.md",
+  "licensesUrl": "https://github.com/EloiStree/2026_07_20_upm_get_ipv4_info/blob/main/LICENSE"
+}
